@@ -4,3 +4,4 @@ matplotlib
 sklearn
 pickel
 seaborn
+pandas-profiling
